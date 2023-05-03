@@ -8,3 +8,4 @@ The analysis include visualizations that highlight the revenue trends for both c
 
 
 Overall, this project will provide investors with a data-driven approach to compare the revenue and stock prices of Tesla and GameStop, allowing them to make informed decisions based on the insights provided by the dashboard.
+The link to view this file input and ouput, as well the plotted dashboard is: https://nbviewer.org/github/yuknow10/Tesla-vs-Gamestock-stock-comparison-and-graph/blob/main/Tesla%20v%20Gamestop%20stocks%20%281%29.ipynb
